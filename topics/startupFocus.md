@@ -9,7 +9,7 @@
 -   Willpower isn't enough. You need tools as well.
 -   The two things that ridiculously de-risk your startup are:
 
-    1. Talk to you customers.
+    1. Talk to your customers.
     2. Build and launch products.
 
 -   Pick one avenue and stick to it. An equally competent team that is all-in will always beat you.
@@ -82,7 +82,7 @@ The collection of mentors, startup events, tutorials... It makes it look like yo
 ```
 The two things that ridiculously de-risk your startup are:
 
-1. Talk to you customers.
+1. Talk to your customers.
 2. Build and launch products.
 ```
 
