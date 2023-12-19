@@ -21,7 +21,7 @@
 ## Maker schedule
 
 ```
-Creative work must to be done in 8-hour uninteruppted blocks.
+Creative work must to be done in 8-hour uninterrupted blocks.
 ```
 
 By creative we mean programmers, musicians, actors...
