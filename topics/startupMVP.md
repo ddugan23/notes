@@ -51,7 +51,7 @@ Things that allowed us to survive (All were essential):
 -   How intense is the problem?
 -   Are they willing to pay?
 
-    -   _I need to give it away for free, it's the only way I'll get users_. **WRONG!** If you want to know if you have a good product it's a lot easier to make it harded for the user to use it, and see if they use it anyway. If they have an extremely intense problem, and you ask for $100, they'll see a deal. If you charge $0, you'll get people trying something out, without a real problem. **Starting with a price is always better than free**.
+    -   _I need to give it away for free, it's the only way I'll get users_. **WRONG!** If you want to know if you have a good product it's a lot easier to make it harder for the user to use it, and see if they use it anyway. If they have an extremely intense problem, and you ask for $100, they'll see a deal. If you charge $0, you'll get people trying something out, without a real problem. **Starting with a price is always better than free**.
 
 -   How easy are they to find?
 
@@ -120,7 +120,7 @@ Ex. Instagram:
 -   Create an account
 -   Took a photo
 -   Applied effects
--   Shared he photo
+-   Shared the photo
 
 Make measurements a part of the product spec i.e. strart tracking with the release.
 
@@ -143,7 +143,7 @@ Have **ONE** brainstorming meeting every week. In order to prevent hating it, ma
 
     - Easy. 1-2 hours.
     - Medium. 1-2 days.
-    - Hard. While dev cycle.
+    - Hard. Whole dev cycle.
 
     Most hard ideas can be restated as an easy idea, if you undrestand what bits of the hard idea are both useless and hard. Most of the time, these can be removed.
 
@@ -151,7 +151,7 @@ Have **ONE** brainstorming meeting every week. In order to prevent hating it, ma
 
     Decide which features would impact the KPI the most. Hard first, medium second, easy last.
 
-5. Writte spec. Everyone fuck up here, and no one likes this step.
+5. Written spec. Everyone fucks up here, and no one likes this step.
 
     Go through the brainstorm ideas, and write down the selected on in **DETAIL**. This is **EXTREMELY IMPORTANT**
 
@@ -162,7 +162,7 @@ If you are expecting to build something significant under two years, you are doi
 Pivot = Changing the customer and/or the problem (rare) Means start a new company.  
 Iterate = Changing the solution (common)
 
-Many make the mistake by thinkin the solution is the genius part, and they look for different customers for their solution. Actually, identifying the problem that other's haven't figured out how to solve is the genius part. Facebook and Google weren't first.
+Many make the mistake by thinking the solution is the genius part, and they look for different customers for their solution. Actually, identifying the problem that others haven't figured out how to solve is the genius part. Facebook and Google weren't first.
 
 ## Fake vs Real Steve Jobs (how not to be a product dictator)
 
@@ -191,9 +191,9 @@ You can be your own first user.
 
 Most founders have an idea what to build, so they think that having not built the full thing, it's not worth getting feddback on the shitty initial thing. This is a mistake, because the final product might not be what your customers want at all.
 
-Holt the problem tightly, the customer tightly, but the solution loosely.
+Hold the problem tightly, the customer tightly, but the solution loosely.
 
-On iteration, it's like your making a screwdriver, and the mechanic tells you it doesn't screw anything, so you go looking for uses of the screwdriver if it can cook. Fix the product, rather than look for a customer for the broken one.
+On iteration, it's like you're making a screwdriver, and the mechanic tells you it doesn't screw anything, so you go looking for uses of the screwdriver and see if it can cook. Fix the product, rather than look for a customer for the broken one.
 
 ## Lean MVP (most cases)
 
@@ -232,7 +232,7 @@ Learning from customers is easier with an MVP, than without.
 
 The goal is to get ANYTHING in front of a customer.
 
-If you think your MPV is special, you think it has to be perfect, you then spend a lot of time messing with it.
+If you think your MVP is special, you think it has to be perfect, you then spend a lot of time messing with it.
 
 You must assume it **HAS TO BE SHITTY**.
 
@@ -240,7 +240,7 @@ If you are looking for a shirt to paint with and destroy, you woudln't spend tim
 
 ## NEVER ASK USERS FOR FEATURES
 
-It's no their job to come up with features. Their job is to come up with problems.
+It's not their job to come up with features. Their job is to come up with problems.
 
 -   How often do they have it?
 -   How intense is it?
@@ -299,7 +299,7 @@ Don't ask
 -   How woulad a better product look like to you?
 -   Two questions at the same time.
 
-It's even better to watch them how they solve their problem now.
+It's even better to watch how they solve their problem now.
 
 Understand their behavior, not what they are saying.
 
